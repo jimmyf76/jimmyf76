@@ -1,15 +1,23 @@
 #Home
 
 YouTube
+
 Facebook
+
 Instagram
+
 Pinterest
+
 GooglePlus
 
 [Find Places & Activities](http://www.recreation.gov/unifSearch.do)
+
 [Explore Trip Ideas](http://www.recreation.gov/marketing.do?goto=acm/Explore_Trip_Ideas.htm&tti=Explore) 
+
 [Help & FAQ](http://support.recreation.gov/) 
+
 [About Us](http://www.recreation.gov/marketing.do?goto=/acm/aboutUs.htm&tti=About)
+
 [Sign In or Sign Up](https://www.recreation.gov/memberSignInSignUp.do)
 
 ##Articles
@@ -61,13 +69,19 @@ Discover the best American experiences, learn about epic camping spots, national
 - `View all Go Lists`
 
 `Make a Reservation`
+
 `Enter a Lottery`
+
 `Apply for limited-entry locations`
+
 `Pass Sale`
+
 `Volunteer`
 
 America's public parks and places are yours.
+
 `Volunteer now`
+
 `Use Our Data`
 
 The data from this site is available for public use.
